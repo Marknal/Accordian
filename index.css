@@ -1,0 +1,67 @@
+body{
+    background-color: beige;
+    margin-top: 10%;
+    margin-left: 40%;
+}
+
+.flex{
+    display: flex;
+}
+
+
+#collapse{
+    position: relative;
+    background: #220;
+    color:#fff;
+    padding-top:1px;
+    padding-bottom: 1px;
+    margin-bottom: 10px;
+    width:300px;
+    
+}
+
+
+#collapse h4{
+    text-align: center;
+    font-size: 10px;
+}
+
+#collapse p{
+  background-color: #fff;
+  color:#220;
+  font-size:12px;
+  padding: 10px 10px;
+  margin-bottom: -10px;
+  display:none;
+}
+
+
+
+.open{
+    margin-left:120px; 
+    cursor: pointer;
+}
+
+.open1{
+    margin-left:120px; 
+    cursor: pointer;
+}
+.open2{
+    margin-left:120px; 
+    cursor: pointer;
+}
+
+.open3{
+    margin-left:120px; 
+    cursor: pointer;
+}
+
+.close{
+    margin-left: 120px;
+     cursor: pointer;
+}
+
+.close1{
+    margin-left: 120px;
+     cursor: pointer;
+}
